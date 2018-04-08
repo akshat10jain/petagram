@@ -1,0 +1,27 @@
+{
+  "name": "petagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*",
+    "mongoose": "*",
+    "morgan": "*",
+    "bcrypt": "*",
+    "jsonwebtoken": "*",
+    "passport": "*",
+    "passport-facebook": "*",
+    "express-messages": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "cookie-parser": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  }
+}
